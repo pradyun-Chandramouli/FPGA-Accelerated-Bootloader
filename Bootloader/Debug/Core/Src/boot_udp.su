@@ -1,0 +1,5 @@
+../Core/Src/boot_udp.c:33:13:send_simple	64	static
+../Core/Src/boot_udp.c:53:13:send_payload	56	static
+../Core/Src/boot_udp.c:77:13:udp_rx_cb	1136	static
+../Core/Src/boot_udp.c:213:6:boot_udp_init	8	static
+../Core/Src/boot_udp.c:227:6:boot_udp_poll	8	static

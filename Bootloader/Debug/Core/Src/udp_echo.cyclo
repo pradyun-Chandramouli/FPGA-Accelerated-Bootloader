@@ -1,0 +1,2 @@
+../Core/Src/udp_echo.c:9:13:udp_rx_cb	2
+../Core/Src/udp_echo.c:23:6:udp_echo_init	3

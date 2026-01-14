@@ -1,0 +1,2 @@
+../Core/Src/boot_jump.c:4:13:nvic_full_reset	2
+../Core/Src/boot_jump.c:13:6:boot_jump_to_app	1

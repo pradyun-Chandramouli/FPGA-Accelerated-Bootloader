@@ -1,0 +1,2 @@
+../Core/Src/crc32.c:4:17:crc32_update	3
+../Core/Src/crc32.c:17:10:crc32_zlib	1
